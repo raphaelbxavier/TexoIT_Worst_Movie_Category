@@ -51,7 +51,7 @@ Será necessário o desenvolvimento de uma API RESTful para possibilitar a leitu
 }</code></pre>
 <h3>
 
-# Testes Unitários:
+# Testes de Integração:
 Os testes de integração implementados para a API encontram-se na classe MovieControllerIntegrationTests, com dados Mockados para utilizar os diversos cenários de seu funcionamento.
 
 Para simular os casos basta alterar as informações ali presentes e executar a classe que irá inicializar apenas os recursos necessários ao final da execução será apresentado o resultado para cada um dos testes, no caso de falha será indicado a causa.
