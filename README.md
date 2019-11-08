@@ -8,11 +8,11 @@ Será necessário o desenvolvimento de uma API RESTful para possibilitar a leitu
 
 # Ferramentas Usadas para desenvolver a API e Testar:
 
-- IDE de Desenvolvimento: [IntelliJ 2019.1.3 com Java EE 8]
-- Gerenciador de Dependências: [Maven]
-- Framework para desenvolvimento da API: [Spring Boot 2.1.0-RELEASE]
-- Servidor de Aplicação: [Apache Tomcat 8.0]
-- Testes da API RESTful: [Postman]
+- IntelliJ 2019.1.3 com Java EE 8
+- Maven
+- Spring Boot 2.1.0
+- Apache Tomcat 8.0
+- Postman
 
 # Formato da API:
 <h3>
