@@ -1,5 +1,5 @@
 # TexoIT Recruitment Process of Java WEB developer (Worst Movie Category) in Joinville
-Será necessário o desenvolvimento de uma API RESTful para possibilitar a leitura da lista de indicados e vencedores da categoria Pior Filme do Golden Raspberry Awards, como parte da seleção de desenvolvedor java na TexoIT Joinville.
+Será necessário o desenvolvimento de uma API RESTful para possibilitar a leitura da lista de indicados e vencedores da categoria Pior Filme do Golden Raspberry Awards, como parte da seleção de desenvolvedor java na TexoIT Joinville;
 
 # Requisito do Sistema:
 1. Ler o arquivo CSV dos filmes e inserir os dados em uma base de dados ao inciar a aplicação;
@@ -11,12 +11,12 @@ Será necessário o desenvolvimento de uma API RESTful para possibilitar a leitu
 
 # Ferramentas utilizadas para o desenvolvimento da API:
 
-- IntelliJ 2019.1.3
-- Java 8
-- Maven
-- Spring Boot 2.1.0
-- Apache Tomcat 8.0
-- Postman
+- IntelliJ 2019.1.3;
+- Java 8;
+- Maven;
+- Spring Boot 2.1.0;
+- Apache Tomcat 8.0;
+- Postman;
 
 # Formato da API:
 <h3>
@@ -52,8 +52,8 @@ Será necessário o desenvolvimento de uma API RESTful para possibilitar a leitu
 <h3>
 
 # Testes de Integração:
-Os testes de integração implementados para a API encontram-se na classe MovieControllerIntegrationTests, com dados Mockados para utilizar os diversos cenários de seu funcionamento.
+Os testes de integração implementados para a API encontram-se na classe MovieControllerIntegrationTests, com dados Mockados para utilizar os diversos cenários de seu funcionamento;
 
-Para simular os casos basta alterar as informações ali presentes e executar a classe que irá inicializar apenas os recursos necessários ao final da execução será apresentado o resultado para cada um dos testes, no caso de falha será indicado a causa.
+Para simular os casos basta alterar as informações ali presentes e executar a classe que irá inicializar apenas os recursos necessários ao final da execução será apresentado o resultado para cada um dos testes, no caso de falha será indicado a causa;
 
 
