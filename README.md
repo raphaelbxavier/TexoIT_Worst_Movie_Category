@@ -5,6 +5,9 @@ Será necessário o desenvolvimento de uma API RESTful para possibilitar a leitu
 1. Ler o arquivo CSV dos filmes e inserir os dados em uma base de dados ao inciar a aplicação;
 # Requisito da API:
 1. Obter o produtor com maior intervalo entre dois prêmios, e o que obteve dois prêmios mais rápido;
+# Requisitos Não Funcionais 
+1. O web service RESTful deve ser implementado com base no nível 2 de maturidade de Richardson; 
+2. Devem ser implementados somente testes de integração;
 
 # Ferramentas Usadas para desenvolver a API e Testar:
 
@@ -48,9 +51,8 @@ Será necessário o desenvolvimento de uma API RESTful para possibilitar a leitu
 }</code></pre>
 <h3>
 
-# Teste Unitario
 
-Os testes implementados para a API encontram-se nas classe MovieControllerTest.java e MovieControllerIntegrationTests, com dados Mockados para utilizar os diversos cenários de seu funcionamento.
+Os testes de itegração implementados para a API encontram-se na classe MovieControllerIntegrationTests, com dados Mockados para utilizar os diversos cenários de seu funcionamento.
 
 Para simular os casos basta alterar as informações ali presentes e executar a classe que irá inicializar apenas os recursos necessários ao final da execução será apresentado o resultado para cada um dos testes, no caso de falha será indicado a causa.
 
