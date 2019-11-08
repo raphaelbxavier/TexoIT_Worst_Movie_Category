@@ -1,4 +1,4 @@
-# Joinville TexoIT Recruitment Process of Java WEB developer (Worst Movie Category)
+# TexoIT Recruitment Process of Java WEB developer (Worst Movie Category) in Joinville
 Será necessário o desenvolvimento de uma API RESTful para possibilitar a leitura da lista de indicados e vencedores da categoria Pior Filme do Golden Raspberry Awards, como parte da seleção de desenvolvedor java na TexoIT Joinville.
 
 # Requisito do Sistema:
