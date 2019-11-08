@@ -50,18 +50,7 @@ Será necessário o desenvolvimento de uma API RESTful para possibilitar a leitu
 
 # Teste Unitario
 
-<strong>As seguintes validações devem ser consideradas:</strong>
-
-- Validar os dados que retorna.
-- Validar os headers da resposta
-- Validar se a resposta está de acordo.
-- Validar se o content-type alterado, o comportamento continua o mesmo.
-- Validar se a estrutura do JSON ou XML está correta.
-- Validar se quando der erro o status está de acordo com os códigos de erro.
-- Validar se uma requisição com informações incompleta, qual será o comportamento da requisição.
-- Testar o tempo de resposta de uma requisição
-
-Os testes implementados para a API encontram-se na classe [MovieControllerTest.java] e uma vez que estes são testes voltados para testar o correto funcionadmento dos recurso da API, utilizamos de informação ficticias que nos permite simular os possiveis cenários.
+Os testes implementados para a API encontram-se nas classe MovieControllerTest.java e MovieControllerIntegrationTests, com dados Mockados para utilizar os diversos cenários de seu funcionamento.
 
 Para simular os casos basta alterar as informações ali presentes e executar a classe que irá inicializar apenas os recursos necessários ao final da execução será apresentado o resultado para cada um dos testes, no caso de falha será indicado a causa.
 
