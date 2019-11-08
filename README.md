@@ -8,7 +8,8 @@ Será necessário o desenvolvimento de uma API RESTful para possibilitar a leitu
 
 # Ferramentas Usadas para desenvolver a API e Testar:
 
-- IntelliJ 2019.1.3 com Java EE 8
+- IntelliJ 2019.1.3
+- Java 8
 - Maven
 - Spring Boot 2.1.0
 - Apache Tomcat 8.0
