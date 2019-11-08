@@ -9,7 +9,7 @@ Será necessário o desenvolvimento de uma API RESTful para possibilitar a leitu
 1. O web service RESTful deve ser implementado com base no nível 2 de maturidade de Richardson; 
 2. Devem ser implementados somente testes de integração;
 
-# Ferramentas Usadas para desenvolver a API e Testar:
+# Ferramentas utilizadas para o desenvolvimento da API:
 
 - IntelliJ 2019.1.3
 - Java 8
