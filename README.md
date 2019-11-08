@@ -4,8 +4,7 @@ parte da seleção de desenvolvedor java na TexoIT Joinville.
 
 #Requisito do sistema:
 1. Ler o arquivo CSV dos filmes e inserir os dados em uma base de dados ao inciar a aplicação;
-#Requisito da API:
-1. Obter o produtor com maior intervalo entre dois prêmios, e o que obteve dois prêmios mais rápido;
+2. Obter o produtor com maior intervalo entre dois prêmios, e o que obteve dois prêmios mais rápido;
 
 - [Ferramentas Usadas](#ferramentas-usadas)
 - [Como executar](#como-executar)
