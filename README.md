@@ -5,7 +5,7 @@ Será necessário o desenvolvimento de uma API RESTful para possibilitar a leitu
 1. Ler o arquivo CSV dos filmes e inserir os dados em uma base de dados ao inciar a aplicação;
 # Requisito da API:
 1. Obter o produtor com maior intervalo entre dois prêmios, e o que obteve dois prêmios mais rápido;
-# Requisitos Não Funcionais 
+# Requisitos Não Funcionais:
 1. O web service RESTful deve ser implementado com base no nível 2 de maturidade de Richardson; 
 2. Devem ser implementados somente testes de integração;
 
